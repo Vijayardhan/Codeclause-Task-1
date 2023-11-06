@@ -1,2 +1,2 @@
-# Codeclause-Task-1
+# CodeClauseInternship-Task-1
 To do list
